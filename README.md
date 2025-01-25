@@ -21,8 +21,8 @@ Tools: Git, Bash scripting, Socket programming
 Contact Me:
 
 If you’re interested in collaborating or learning more about my work, feel free to reach out:
-Email: your.email@example.com
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nicholas-c-284342165/)
+Email: nicholasconnelly.sci@gmail.com
+LinkedIn: [Linkedin](https://www.linkedin.com/in/nicholas-c-284342165/)
 
 I’m open to freelance opportunities and collaborations on innovative projects.
 
