@@ -1,5 +1,3 @@
-Welcome to Nicholas Connelly's GitHub Profile
-
 About Me
 
 Hello! My name is Nicholas Connelly, and I am a dedicated programmer and problem-solver with a passion for creating robust systems and applications. My expertise lies in:
