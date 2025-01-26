@@ -1,13 +1,15 @@
 About Me
 
-Hello! My name is Nicholas Connelly, and I am a dedicated programmer and problem-solver with a passion for creating robust systems and applications. My expertise lies in:
+Hello! My name is Nicholas Connelly, and I am a dedicated programmer and problem-solver with a passion for creating 
+robust systems and applications. My expertise lies in:
 
-Systems and Networking: Building efficient, low-level solutions using C, C++, and Python.
+Systems and Networking: Building efficient, low-level solutions using C, C++, rust, and Python.
 App Development: Crafting user-friendly and functional applications.
 Database Management: Designing and implementing reliable SQL and NoSQL databases.
 Game Development: Developing engaging games with a focus on mechanics and performance.
 
-I am constantly learning and refining my skills to deliver high-quality projects. Whether it's building from scratch or optimizing existing systems, I enjoy tackling complex challenges and turning ideas into reality.
+I am constantly learning and refining my skills to deliver high-quality projects. Whether it's building from scratch 
+or optimizing existing systems, I enjoy tackling complex challenges and turning ideas into reality.
 
 Skills and Technologies:
 
@@ -18,7 +20,8 @@ Tools: Git, Bash scripting, Socket programming
 
 Contact Me:
 
-If you’re interested in collaborating feel free to reach out at nicholasconnelly.sci@gmail.com or visit my [Linkedin](https://www.linkedin.com/in/nicholas-c-284342165/)
+If you’re interested in collaborating feel free to reach out at nicholasconnelly.sci@gmail.com or visit my [Linkedin]
+(https://www.linkedin.com/in/nicholas-c-284342165/)
 
 I’m open to freelance opportunities and collaborations on innovative projects.
 
