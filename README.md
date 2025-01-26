@@ -3,17 +3,22 @@ About Me
 Hello! My name is Nicholas Connelly, and I am a dedicated programmer and problem-solver with a passion for creating 
 robust systems and applications. My expertise lies in:
 
-Systems and Networking: Building efficient, low-level solutions using C, C++, rust, and Python.
+Systems and Networking: Building efficient, low-level solutions using C, C++, Rust, and Python.
+
 App Development: Crafting user-friendly and functional applications.
+
 Database Management: Designing and implementing reliable SQL and NoSQL databases.
+
 Game Development: Developing engaging games with a focus on mechanics and performance.
+
+Web Development: Building efficient and attractive websites with HTML, CSS, and JavaScript
 
 I am constantly learning and refining my skills to deliver high-quality projects. Whether it's building from scratch 
 or optimizing existing systems, I enjoy tackling complex challenges and turning ideas into reality.
 
 Skills and Technologies:
 
-Languages: C, C++, Python, Rust, C#
+Languages: C, C++, Python, Rust, C#, HTML/CSS, JavaScript
 Frameworks: Django, Flask, Godot
 Databases: MySQL, PostgreSQL, MongoDB
 Tools: Git, Bash scripting, Socket programming
