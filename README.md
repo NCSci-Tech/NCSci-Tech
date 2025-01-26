@@ -20,8 +20,7 @@ Tools: Git, Bash scripting, Socket programming
 
 Contact Me:
 
-If you’re interested in collaborating feel free to reach out at nicholasconnelly.sci@gmail.com or visit my [Linkedin]
-(https://www.linkedin.com/in/nicholas-c-284342165/)
+If you’re interested in collaborating feel free to reach out at nicholasconnelly.sci@gmail.com or visit my [Linkedin](https://www.linkedin.com/in/nicholas-c-284342165/)
 
 I’m open to freelance opportunities and collaborations on innovative projects.
 
