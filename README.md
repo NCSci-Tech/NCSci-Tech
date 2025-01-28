@@ -1,32 +1,53 @@
 About Me
+Hello! My name is Nicholas Connelly, and I am a dedicated programmer and problem-solver with a passion for advancing technology through innovative and efficient solutions. My focus lies in:
 
-Hello! My name is Nicholas Connelly, and I am a dedicated programmer and problem-solver with a passion for creating 
-robust systems and applications. My expertise lies in:
+Systems and Networking: Building and optimizing low-level solutions with C, C++, Python, and Rust, including socket programming and protocols.
 
-Systems and Networking: Building efficient, low-level solutions using C, C++, Rust, and Python.
+Robotics and Embedded Systems: Developing intelligent systems for robotics, microcontrollers, and aerospace applications, using Arduino, Raspberry Pi, and other cutting-edge technologies.
 
-App Development: Crafting user-friendly and functional applications.
+Aerospace and High-Tech Programming: Tackling challenges in aerospace software and advanced algorithms for research and development.
 
-Database Management: Designing and implementing reliable SQL and NoSQL databases.
+Simulation and Modeling: Creating robust simulations with MATLAB/Simulink for engineering applications.
 
-Game Development: Developing engaging games with a focus on mechanics and performance.
+I’m committed to continually expanding my knowledge in high-tech systems and delivering exceptional results. Whether it’s building innovative projects from scratch, optimizing existing systems, or contributing to cutting-edge research, I thrive on 
+solving complex challenges.
 
-Web Development: Building efficient and attractive websites with HTML, CSS, and JavaScript
 
-I am constantly learning and refining my skills to deliver high-quality projects. Whether it's building from scratch 
-or optimizing existing systems, I enjoy tackling complex challenges and turning ideas into reality.
+Skills and Technologies
 
-Skills and Technologies:
+Programming Languages:
 
-Languages: C, C++, Python, Rust, C#, HTML/CSS, JavaScript
-Frameworks: Django, Flask, Godot
-Databases: MySQL, PostgreSQL, MongoDB
-Tools: Git, Bash scripting, Socket programming
+C/C++: Low-level programming, system calls, and memory management.
 
-Contact Me:
+Python: Scripting, automation, and data analysis.
 
-If you’re interested in collaborating feel free to reach out at nicholasconnelly.sci@gmail.com or visit my [Linkedin](https://www.linkedin.com/in/nicholas-c-284342165/)
+Rust: Safe and concurrent systems programming.
 
-I’m open to freelance opportunities and collaborations on innovative projects.
+MATLAB/Simulink: Simulation and modeling for advanced engineering.
 
-Thank you for visiting my GitHub profile! Be sure to explore my repositories to see what I’ve been working on.
+Technologies & Tools
+
+Socket Programming: Networking and communication protocols.
+
+Git/GitHub: Version control and collaborative development.
+
+Bash Scripting: Automation and system management.
+
+Embedded Systems: Programming for Arduino, Raspberry Pi, and other microcontrollers.
+
+Robotics and Aerospace Software: Systems integration and algorithm design.
+
+Contact Me
+If you’re interested in collaborating or have an exciting project in mind, feel free to reach out:
+
+Email: nicholasconnelly.sci@gmail.com
+LinkedIn: Nicholas Connelly
+
+I am open to freelance opportunities and collaborations on innovative projects in systems and network programming, robotics, and aerospace technology.
+
+
+Thank you for visiting my GitHub profile! Be sure to explore my repositories to see the projects I’ve been working on.
+
+
+
+
