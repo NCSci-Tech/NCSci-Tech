@@ -1,4 +1,4 @@
-# Hi there, I'm Alex! 👋
+# Hi there, I'm Nikolai! 👋
 
 ## 🚀 About Me
 I'm a passionate developer with a strong focus on **systems programming, networking, and AI development**. My main expertise lies in **C, C++, Python, and Bash**, with a growing interest in **robotics, cybernetics, and advanced computer algorithms**.
@@ -25,21 +25,21 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YourSpotifyUsername&cover_image=true&theme=default)](https://open.spotify.com/user/YourSpotifyUsername)
 
 ## ✨ Cool Animations & Effects
-```html
+html
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Systems+and+Networking+Developer;Building+AI+and+Cybernetic+Solutions;Freelance+IT+Solutions;Welcome+to+My+GitHub!" />
-```
 
-```html
+
+html
 <!-- Snake Animation (Contribution Graph) -->
 ![GitHub Contribution Snake](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
-```
+
 
 ## 📫 Connect with Me
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **Portfolio:** [Your Portfolio](https://yourwebsite.com)
-- **GitHub:** [Your GitHub](https://github.com/YourGitHubUsername)
+- **Email:** nicholasconnelly.sci@gmail.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/nicholas-c-284342165/)
+- **Portfolio:** [Your Portfolio](N/A)
+- **GitHub:** [Your GitHub](https://github.com/NCSci-Tech)
 
 ---
 ⭐️ Inspired by awesome GitHub profiles! Let's connect and build something great together!
