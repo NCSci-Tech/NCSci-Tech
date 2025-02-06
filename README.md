@@ -10,7 +10,7 @@ I'm a passionate developer with a strong focus on **systems programming, network
 
 ## 🛠️ Tech Stack
 ```yaml
-Programming: [ C, C++, Python, Bash, SQL, Rust (beginner) ]
+Programming: [ C, C++, Python, Bash, SQL, Rust ]
 Tools: [ Docker, Linux, Git, Qt, MongoDB, Django ]
 Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 ```
@@ -43,9 +43,9 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 
 ## 📫 Connect with Me
 - **Email:** nicholasconnelly.sci@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/nicholas-c-284342165/)
-- **Portfolio:** [Your Portfolio](N/A)
-- **GitHub:** [Your GitHub](https://github.com/NCSci-Tech)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nicholas-c-284342165/)
+- **Portfolio:** [Portfolio](N/A)
+- **GitHub:** [GitHub](https://github.com/NCSci-Tech)
 
 ---
 ⭐️ Inspired by awesome GitHub profiles! Let's connect and build something great together!
