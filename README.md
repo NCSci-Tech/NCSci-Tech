@@ -21,9 +21,6 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
 </div>
 
-## 🎶 Now Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YourSpotifyUsername&cover_image=true&theme=default)](https://open.spotify.com/user/YourSpotifyUsername)
-
 ## ✨ Cool Animations & Effects
 html
 <!-- Typing Animation -->
@@ -32,7 +29,7 @@ html
 
 html
 <!-- Snake Animation (Contribution Graph) -->
-![GitHub Contribution Snake](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/NCSci-Tech/NCSci-Tech/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Connect with Me
