@@ -34,12 +34,12 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 </a>
 
 <!-- Dynamic Skyline -->
-<a href="https://skyline.github.com/NCSci-Tech/2024">
+<a href="https://skyline.github.com/NCSci-Tech/2025">
   <img src="https://github.com/NCSci-Tech/NCSci-Tech/blob/main/skyline.gif" width="100%" />
 </a>
 
-🐍 Contribution Graph Snake Animation
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake animation" src="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake.svg" /> </picture>
+<!-- Custom Animated Contribution Graph -->
+![GitHub Contribution Graph](https://github.com/NCSci-Tech/NCSci-Tech/blob/main/contributions-anim.svg)
 
 
 ## 📫 Connect with Me
