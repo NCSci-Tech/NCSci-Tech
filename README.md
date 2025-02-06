@@ -23,8 +23,6 @@ Python: Scripting, automation, and data analysis.
 
 Rust: Safe and concurrent systems programming.
 
-MATLAB/Simulink: Simulation and modeling for advanced engineering.
-
 Technologies & Tools
 
 Socket Programming: Networking and communication protocols.
