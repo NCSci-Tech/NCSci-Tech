@@ -22,12 +22,10 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 </div>
 
 ## ✨ Cool Animations & Effects
-html
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Systems+and+Networking+Developer;Building+AI+and+Cybernetic+Solutions;Freelance+IT+Solutions;Welcome+to+My+GitHub!" />
 
 
-html
 <!-- Snake Animation (Contribution Graph) -->
 ![GitHub Contribution Snake](https://github.com/NCSci-Tech/NCSci-Tech/blob/output/github-contribution-grid-snake.svg)
 
