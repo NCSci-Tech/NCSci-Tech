@@ -38,10 +38,6 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
   <img src="https://github.com/NCSci-Tech/NCSci-Tech/blob/main/skyline.gif" width="100%" />
 </a>
 
-<!-- Custom Animated Contribution Graph -->
-![GitHub Contribution Graph](https://github.com/NCSci-Tech/NCSci-Tech/blob/main/contributions-anim.svg)
-
-
 ## 📫 Connect with Me
 - **Email:** nicholasconnelly.sci@gmail.com
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nicholas-c-284342165/)
