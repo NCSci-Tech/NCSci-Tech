@@ -17,8 +17,8 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NCSci-Tech&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NCSci-Tech&theme=radical" />
 </div>
 
 ## ✨ Cool Animations & Effects
