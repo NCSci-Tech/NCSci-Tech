@@ -38,6 +38,9 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
   <img src="https://github.com/NCSci-Tech/NCSci-Tech/blob/main/skyline.gif" width="100%" />
 </a>
 
+🐍 Contribution Graph Snake Animation
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake animation" src="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake.svg" /> </picture>
+
 
 ## 📫 Connect with Me
 - **Email:** nicholasconnelly.sci@gmail.com
