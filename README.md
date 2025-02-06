@@ -25,10 +25,21 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Systems+and+Networking+Developer;Building+AI+and+Cybernetic+Solutions;Freelance+IT+Solutions;Welcome+to+My+GitHub!" />
 
+<!-- Wave Animation -->
+<img src="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/main/wave.svg" width="100%"/>
 
-<!-- Snake Animation (Contribution Graph) -->
-![GitHub Contribution Snake](https://github.com/NCSci-Tech/NCSci-Tech/blob/output/github-contribution-grid-snake.svg)
+<!-- 3D Card Animation -->
+<a href="https://github.com/NCSci-Tech">
+  <img src="https://github-profile-trophy.vercel.app/?username=NCSci-Tech&margin-w=10&theme=radical" />
+</a>
 
+<!-- Dynamic Skyline -->
+<a href="https://skyline.github.com/NCSci-Tech/2024">
+  <img src="https://github.com/NCSci-Tech/NCSci-Tech/blob/main/skyline.gif" width="100%" />
+</a>
+
+<!-- Snake Animation (Fixed) -->
+![GitHub Contribution Snake](https://github.com/NCSci-Tech/NCSci-Tech/blob/main/github-contribution-grid-snake.svg)
 
 ## 📫 Connect with Me
 - **Email:** nicholasconnelly.sci@gmail.com
