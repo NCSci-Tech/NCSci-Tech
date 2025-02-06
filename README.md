@@ -39,11 +39,14 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 </a>
 
 <!-- GitHub Contribution Snake -->
+![GitHub Contribution Snake](https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake animation" src="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/output/github-contribution-grid-snake.svg" />
 </picture>
+
 
 ## 📫 Connect with Me
 - **Email:** nicholasconnelly.sci@gmail.com
