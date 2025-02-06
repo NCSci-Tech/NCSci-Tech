@@ -25,9 +25,6 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Systems+and+Networking+Developer;Building+AI+and+Cybernetic+Solutions;Freelance+IT+Solutions;Welcome+to+My+GitHub!" />
 
-<!-- Wave Animation -->
-<img src="https://raw.githubusercontent.com/NCSci-Tech/NCSci-Tech/main/wave.svg" width="100%"/>
-
 <!-- 3D Card Animation -->
 <a href="https://github.com/NCSci-Tech">
   <img src="https://github-profile-trophy.vercel.app/?username=NCSci-Tech&margin-w=10&theme=radical" />
@@ -40,9 +37,9 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 
 ## 📫 Connect with Me
 - **Email:** nicholasconnelly.sci@gmail.com
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nicholas-c-284342165/)
-- **Portfolio:** [Portfolio](N/A)
-- **GitHub:** [GitHub](https://github.com/NCSci-Tech)
+- **LinkedIn:** [Click Here](https://www.linkedin.com/in/nicholas-c-284342165/)
+- **Website:** [Click Here](N/A)
+- **GitHub:** [Click Here](https://github.com/NCSci-Tech)
 
 ---
 ⭐️ Inspired by awesome GitHub profiles! Let's connect and build something great together!
