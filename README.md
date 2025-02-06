@@ -21,7 +21,7 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NCSci-Tech&theme=radical" />
 </div>
 
-## ✨ Cool Animations & Effects
+## ✨✨✨✨✨✨
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Systems+and+Networking+Developer;Building+AI+and+Cybernetic+Solutions;Freelance+IT+Solutions;Welcome+to+My+GitHub!" />
 
