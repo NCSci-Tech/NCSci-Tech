@@ -1,7 +1,7 @@
 # Hi there, I'm Nikolai! 👋
 
 ## 🚀 About Me
-I'm a passionate developer with a strong focus on **systems programming, networking, and AI development**. My main expertise lies in **C, C++, Python, and Bash**, with a growing interest in **robotics, cybernetics, and advanced computer algorithms**.
+I'm a passionate developer with a strong focus on **systems programming, networking, and AI development**. My main expertise lies in **C, C++, Python, Rust, and Bash**, with a growing interest in **robotics, cybernetics, and advanced computer algorithms**.
 
 - 💻 Currently working on a **GPT-powered app** and a **universal AI-assisted compiler**
 - 🌍 Exploring **freelance opportunities** in IT, automation, and software development
