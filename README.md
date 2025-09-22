@@ -39,7 +39,6 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 - **Email:** nicholasconnelly.sci@gmail.com
 - **LinkedIn:** [Click Here](https://www.linkedin.com/in/nicholas-c-284342165/)
 - **Website:** [Click Here](N/A)
-- **GitHub:** [Click Here](https://github.com/NCSci-Tech)
 
 ---
 ⭐️ Inspired by awesome GitHub profiles! Let's connect and build something great together!
