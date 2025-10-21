@@ -1,21 +1,21 @@
 # Hi there, I'm Nikolai! 👋
 
-## 🚀 About Me
+## About Me
 I'm a passionate developer with a strong focus on **systems programming, networking, and AI development**. My main expertise lies in **C, C++, Python, Rust, and Bash**, with a growing interest in **robotics, cybernetics, and advanced computer algorithms**.
 
-- 💻 Currently working on a **GPT-powered app** and a **universal AI-assisted compiler**
-- 🌍 Exploring **freelance opportunities** in IT, automation, and software development
-- 🔧 Building **self-hosted solutions** and **custom servers**
-- 🎯 Long-term goal: **Contribute to research in AI, robotics, and space technology**
+- Currently working on a **GPT-powered app** and a **universal AI-assisted compiler**
+- Exploring **freelance opportunities** in IT, automation, and software development
+- Building **self-hosted solutions** and **custom servers**
+- Long-term goal: **Contribute to research in AI, robotics, and space technology**
 
-## 🛠️ Tech Stack
+## Tech Stack
 ```yaml
 Programming: [ C, C++, Python, Bash, SQL, Rust ]
 Tools: [ Docker, Linux, Git, Qt, MongoDB, Django ]
 Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 ```
 
-## 📈 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NCSci-Tech&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NCSci-Tech&theme=radical" />
@@ -35,7 +35,7 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
   <img src="https://github.com/NCSci-Tech/NCSci-Tech/blob/main/skyline.gif" width="100%" />
 </a>
 
-## 📫 Connect with Me
+## Connect with Me
 - **Email:** nicholasconnelly.sci@gmail.com
 - **LinkedIn:** [Click Here](https://www.linkedin.com/in/nicholas-c-284342165/)
 - **Website:** [Click Here](N/A)
