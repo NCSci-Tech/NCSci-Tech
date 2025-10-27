@@ -1,21 +1,23 @@
 Hi there, I'm Nikolai! 👋
 About Me
 
-I'm a passionate and multi-faceted developer, hacker, and innovator with a deep love for systems programming, networking, AI development, and hardware hacking. My expertise spans a wide variety of domains, including C, C++, Python, Binary, Assembly, and Bash, but I’m constantly expanding my skills into areas like robotics, reverse engineering, and low-level development.
+I'm a developer, hacker, and innovator with a strong passion for systems programming, networking, AI development, and hardware hacking. I specialize in C, C++, Python, Binary, Assembly, and Bash, and have a keen interest in robotics, reverse engineering, low-level development, and cybersecurity.
 
-Currently, I'm involved in several exciting projects:
+What I'm Currently Working On:
 
-GPT-powered applications – exploring intelligent interfaces and automating software development.
+AI-Powered Apps: Creating intelligent, GPT-powered applications to automate processes.
 
-Universal AI-assisted compiler – working on a new compiler leveraging the power of machine learning for optimized code generation.
+AI-Assisted Compiler: Building a universal AI-assisted compiler that uses machine learning to optimize code generation.
 
-Self-hosted solutions & custom server infrastructures – building resilient, scalable systems for various use cases.
+Self-hosted Solutions: Developing self-hosted infrastructure for various applications like CI/CD, IoT automation, and custom servers.
 
-Exploring freelance opportunities in IT automation, systems architecture, and software development.
+Exploring Freelance: Available for projects in IT automation, cybersecurity, embedded systems, and AI development.
 
-Building AI models for various applications, including autonomous systems and embedded AI for hardware devices.
+AI & Robotics Research: Working on cutting-edge AI models and autonomous systems for robotics.
 
-My long-term goal: Contribute to cutting-edge research in AI, robotics, and space technology.
+My Long-Term Goal:
+
+To contribute to AI research, robotics development, and space technology!
 
 Tech Stack & Expertise
 Programming Languages:
@@ -33,45 +35,44 @@ AI & Robotics:
 Networking & Security:
   - [ TCP/IP, Networking Protocols, Ethical Hacking, Network Forensics, Firewall Configuration, Packet Analysis ]
 
-Current Projects
-
-AI-Powered Compiler: A project designed to create an intelligent compiler that integrates machine learning models to optimize code in real time. The project aims to reduce manual programming overhead and improve performance.
-
-Self-hosted Infrastructure: Building a stack of self-hosted services, including Jenkins for CI/CD, Nextcloud for cloud storage, and Home Assistant for IoT.
-
-AI-Driven Automation: Working on a series of automated scripts that leverage AI to optimize business workflows and systems management.
-
 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NCSci-Tech&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NCSci-Tech&theme=radical" /> </div>
 ✨✨✨✨✨✨
-<!-- Typing Animation --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Systems+and+Networking+Developer;Building+AI+and+LLM/ML+Solutions;Freelance+IT+Solutions;Reverse+Engineering+and+Hardware+Hacking;Welcome+to+My+GitHub!" /> <!-- 3D Trophy Animation --> <a href="https://github.com/NCSci-Tech"> <img src="https://github-profile-trophy.vercel.app/?username=NCSci-Tech&margin-w=10&theme=radical" /> </a> <!-- Dynamic Skyline (GitHub Contributions) --> <a href="https://skyline.github.com/NCSci-Tech/2025"> <img src="https://github.com/NCSci-Tech/NCSci-Tech/blob/main/skyline.gif" width="100%" /> </a>
-Technologies I'm Actively Exploring 🚀
+<!-- Typing Animation --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Systems+and+Networking+Developer;Building+AI+and+LLM/ML+Solutions;Freelance+IT+Solutions;Reverse+Engineering+and+Hardware+Hacking;Welcome+to+My+GitHub!" />
+Additional Animations & Fun!
+3D Trophy Animation
+<a href="https://github.com/NCSci-Tech"> <img src="https://github-profile-trophy.vercel.app/?username=NCSci-Tech&margin-w=10&theme=radical" /> </a>
+Dynamic GitHub Contributions Skyline
+<a href="https://skyline.github.com/NCSci-Tech/2025"> <img src="https://github.com/NCSci-Tech/NCSci-Tech/blob/main/skyline.gif" width="100%" /> </a>
+Technologies I'm Passionate About 🚀
 
-Reverse Engineering: Ghidra, Radare2, Binary Ninja, IDA Pro – diving deep into malware analysis, vulnerability discovery, and exploit development.
+Reverse Engineering: Mastering tools like Ghidra, Radare2, Binary Ninja, and IDA Pro to explore vulnerabilities and malware.
 
-Hardware Hacking: Using Arduino, Raspberry Pi, ESP32, and other microcontrollers to build custom hardware solutions and interfaces.
+Hardware Hacking: Exploring Arduino, Raspberry Pi, and ESP32 to build innovative custom hardware solutions.
 
-Networking & Cybersecurity: Packet sniffing with Wireshark, pen-testing with Metasploit, setting up VPNs, and firewalls.
+Networking & Security: Diving deep into TCP/IP, Wireshark, Metasploit, Nmap, Firewalls, and Network Forensics to enhance system security.
 
-Machine Learning & AI: Working with frameworks like TensorFlow, PyTorch, and Keras to build intelligent systems, from autonomous robots to natural language processing models.
+Machine Learning & AI: Building deep learning models with TensorFlow, PyTorch, and Keras for various AI and robotics applications.
 
-Hacking & Cybersecurity
+Robotics & Embedded AI: Working on autonomous robots, integrating ROS, and creating embedded AI models for real-time processing.
 
-Penetration Testing: Discovering vulnerabilities in systems and networks using tools like Kali Linux, Metasploit, Burp Suite, and Nmap.
+Hacking & Cybersecurity 🕵️‍♂️
 
-Malware Analysis: Dissecting binary files, understanding exploits, and reversing obfuscated code for deeper insights into attack vectors.
+Penetration Testing: Discovering system vulnerabilities with tools like Kali Linux, Metasploit, and Burp Suite.
 
-Security Auditing: Conducting thorough assessments of network protocols, firewall configurations, and server vulnerabilities.
+Malware Analysis: Dissecting obfuscated binaries to understand exploit techniques.
 
-Ethical Hacking: Following a white-hat approach to security with a focus on finding flaws and improving the resilience of systems.
+Security Auditing: Conducting thorough network, system, and software audits to ensure robust security.
 
-Robotics & Autonomous Systems
+Ethical Hacking: Aiming to make systems more resilient by discovering weaknesses and proposing solutions.
 
-Robot Operating System (ROS): Exploring the world of robotics, sensor integration, and autonomous navigation using ROS.
+Robotics & Autonomous Systems 🤖
 
-Embedded AI: Developing AI models that can run directly on embedded systems such as Raspberry Pi and Jetson Nano.
+ROS (Robot Operating System): Working on robotics projects, integrating sensors, and building autonomous systems.
 
-Sensor Fusion: Combining data from multiple sensors (like cameras, IMUs, and LIDAR) to create a comprehensive understanding of the robot’s environment.
+Embedded AI: Deploying AI models on devices like Raspberry Pi and Jetson Nano for robotics and IoT.
+
+Sensor Fusion: Combining multiple sensor inputs to create intelligent, autonomous systems capable of decision-making.
 
 Connect with Me
 
@@ -79,6 +80,6 @@ Email: nicholasconnelly.sci@gmail.com
 
 LinkedIn: Click Here
 
-Website: [N/A] (Building a personal website soon!)
+Website: Coming Soon!
 
-Let’s connect and explore exciting projects together!
+Let’s collaborate and create something amazing together!
