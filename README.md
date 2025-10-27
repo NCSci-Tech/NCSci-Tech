@@ -80,7 +80,7 @@ Operating_Systems:
 
 <!-- Typing Animation (works on GitHub) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=720&lines=Systems+and+Networking+Developer;Building+AI+and+LLM/ML+Solutions;Reverse+Engineering+%26+Hardware+Hacking;Embedded+Systems+%26+Robotics" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=800&lines=Systems+and+Networking+Developer;Building+AI+and+LLM/ML+Solutions;Reverse+Engineering+%26+Hardware+Hacking;Embedded+Systems+%26+Robotics" alt="Typing animation" />
 </p>
 
 <!-- Extra badges (static images from shields.io) -->
