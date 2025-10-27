@@ -83,18 +83,6 @@ Operating_Systems:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=720&lines=Systems+and+Networking+Developer;Building+AI+and+LLM/ML+Solutions;Reverse+Engineering+%26+Hardware+Hacking;Embedded+Systems+%26+Robotics" alt="Typing animation" />
 </p>
 
-<!-- Trophy -->
-<p align="center">
-  <a href="https://github.com/NCSci-Tech">
-    <img src="https://github-profile-trophy.vercel.app/?username=NCSci-Tech&margin-w=10&theme=radical" alt="Trophies" />
-  </a>
-</p>
-
-<!-- Skyline: link to interactive skyline page (no local file required) -->
-<p align="center">
-  <strong>View my interactive contributions skyline:</strong> <a href="https://skyline.github.com/NCSci-Tech/2025">Skyline — NCSci-Tech (2025)</a>
-</p>
-
 <!-- Extra badges (static images from shields.io) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Top%20Langs-C%2C%20C++%2C%20Python-blue?logo=github" alt="Top languages" />
