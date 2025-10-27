@@ -1,85 +1,137 @@
-Hi there, I'm Nikolai! 👋
-About Me
+# Hi there, I'm Nikolai! 👋
 
-I'm a developer, hacker, and innovator with a strong passion for systems programming, networking, AI development, and hardware hacking. I specialize in C, C++, Python, Binary, Assembly, and Bash, and have a keen interest in robotics, reverse engineering, low-level development, and cybersecurity.
+## About Me
+I'm a **developer, hacker, and innovator** with a focus on **systems programming**, **networking**, **AI**, and **hardware hacking**.  
+Primary languages: **C, C++, Python, Assembly, Bash, Binary**.  
+Interests: **robotics, reverse engineering, low-level programming, cybersecurity, and autonomous systems**.
 
-What I'm Currently Working On:
+**Current work**
+- GPT-powered apps & AI-assisted compiler
+- Self-hosted infra (CI/CD, servers, automation)
+- Embedded/firmware development, robotics & sensor fusion
+- Freelance projects in systems, automation, and security
 
-AI-Powered Apps: Creating intelligent, GPT-powered applications to automate processes.
+---
 
-AI-Assisted Compiler: Building a universal AI-assisted compiler that uses machine learning to optimize code generation.
+## Tech Stack & Expertise
 
-Self-hosted Solutions: Developing self-hosted infrastructure for various applications like CI/CD, IoT automation, and custom servers.
+```yaml
+Programming_Languages:
+  - C
+  - C++
+  - Python
+  - Bash
+  - Assembly
+  - Binary
 
-Exploring Freelance: Available for projects in IT automation, cybersecurity, embedded systems, and AI development.
+Tools_and_Frameworks:
+  - Docker
+  - Linux
+  - Git
+  - QEMU
+  - GDB
+  - Ghidra
+  - Radare2
+  - Binary Ninja
+  - TensorFlow
+  - PyTorch
+  - Django
+  - MongoDB
 
-AI & Robotics Research: Working on cutting-edge AI models and autonomous systems for robotics.
+Focus_Areas:
+  - Embedded_Systems
+  - Low-Level_Programming
+  - Firmware
+  - Cybersecurity
+  - Reverse_Engineering
+  - Networking
+  - Robotics
+  - AI/ML
 
-My Long-Term Goal:
+Practices_and_Tech:
+  - Binary_Analysis
+  - Exploit_Development
+  - Penetration_Testing
+  - Hardware_Hacking (RaspberryPi, ESP32, Arduino)
+  - Sensor_Fusion
+  - ROS
+  - Autonomous_Robots
 
-To contribute to AI research, robotics development, and space technology!
+Operating_Systems:
+  - Linux
+  - FreeBSD
+  - Windows (security/testing)
+  - macOS
+```
 
-Tech Stack & Expertise
-Programming Languages:
-  - [ C, C++, Python, Bash, Assembly, Binary ]
-Tools & Frameworks:
-  - [ Docker, Linux, Git, Qemu, GDB, Ghidra, MongoDB, Django, TensorFlow, PyTorch ]
-Focus Areas:
-  - [ Embedded Systems, Low-Level Programming, Firmware, Cybersecurity, Networking, Reverse Engineering, AI, Robotics ]
-Technologies & Practices:
-  - [ Reverse Engineering, Binary Exploitation, Penetration Testing, Hacking, IoT, Hardware Hacking, Cyber Physical Systems, Automation ]
-Operating Systems:
-  - [ Linux, FreeBSD, Windows (for low-level, security testing), MacOS ]
-AI & Robotics:
-  - [ AI/ML Research, Deep Learning, Reinforcement Learning, Autonomous Robots, Machine Vision, ROS (Robot Operating System) ]
-Networking & Security:
-  - [ TCP/IP, Networking Protocols, Ethical Hacking, Network Forensics, Firewall Configuration, Packet Analysis ]
+---
 
-GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NCSci-Tech&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NCSci-Tech&theme=radical" /> </div>
-✨✨✨✨✨✨
-<!-- Typing Animation --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Systems+and+Networking+Developer;Building+AI+and+LLM/ML+Solutions;Freelance+IT+Solutions;Reverse+Engineering+and+Hardware+Hacking;Welcome+to+My+GitHub!" />
-Additional Animations & Fun!
-3D Trophy Animation
-<a href="https://github.com/NCSci-Tech"> <img src="https://github-profile-trophy.vercel.app/?username=NCSci-Tech&margin-w=10&theme=radical" /> </a>
-Dynamic GitHub Contributions Skyline
-<a href="https://skyline.github.com/NCSci-Tech/2025"> <img src="https://github.com/NCSci-Tech/NCSci-Tech/blob/main/skyline.gif" width="100%" /> </a>
-Technologies I'm Passionate About 🚀
+## GitHub Stats
+<div align="center">
+  <!-- Main stats -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NCSci-Tech&show_icons=true&theme=radical" alt="Nikolai's GitHub stats" />
+  <!-- Streak -->
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=NCSci-Tech&theme=radical" alt="Nikolai's GitHub streak" />
+</div>
 
-Reverse Engineering: Mastering tools like Ghidra, Radare2, Binary Ninja, and IDA Pro to explore vulnerabilities and malware.
+---
 
-Hardware Hacking: Exploring Arduino, Raspberry Pi, and ESP32 to build innovative custom hardware solutions.
+## ✨ Live Animations & Flair
 
-Networking & Security: Diving deep into TCP/IP, Wireshark, Metasploit, Nmap, Firewalls, and Network Forensics to enhance system security.
+<!-- Typing Animation (works on GitHub) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=720&lines=Systems+and+Networking+Developer;Building+AI+and+LLM/ML+Solutions;Reverse+Engineering+%26+Hardware+Hacking;Embedded+Systems+%26+Robotics" alt="Typing animation" />
+</p>
 
-Machine Learning & AI: Building deep learning models with TensorFlow, PyTorch, and Keras for various AI and robotics applications.
+<!-- Trophy -->
+<p align="center">
+  <a href="https://github.com/NCSci-Tech">
+    <img src="https://github-profile-trophy.vercel.app/?username=NCSci-Tech&margin-w=10&theme=radical" alt="Trophies" />
+  </a>
+</p>
 
-Robotics & Embedded AI: Working on autonomous robots, integrating ROS, and creating embedded AI models for real-time processing.
+<!-- Skyline: link to interactive skyline page (no local file required) -->
+<p align="center">
+  <strong>View my interactive contributions skyline:</strong> <a href="https://skyline.github.com/NCSci-Tech/2025">Skyline — NCSci-Tech (2025)</a>
+</p>
 
-Hacking & Cybersecurity 🕵️‍♂️
+<!-- Extra badges (static images from shields.io) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Langs-C%2C%20C++%2C%20Python-blue?logo=github" alt="Top languages" />
+  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20BSD%20%7C%20Win-lightgrey" alt="OS" />
+  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20AI%20%7C%20Security-orange" alt="Focus areas" />
+</p>
 
-Penetration Testing: Discovering system vulnerabilities with tools like Kali Linux, Metasploit, and Burp Suite.
+---
 
-Malware Analysis: Dissecting obfuscated binaries to understand exploit techniques.
+## Areas I Work In
 
-Security Auditing: Conducting thorough network, system, and software audits to ensure robust security.
+### Reverse Engineering & Binary Analysis
+- Ghidra, Radare2, Binary Ninja, IDA Pro  
+- Malware analysis, unpacking, deobfuscation, exploit analysis
 
-Ethical Hacking: Aiming to make systems more resilient by discovering weaknesses and proposing solutions.
+### Hardware & Embedded
+- Raspberry Pi, Jetson Nano, ESP32, Arduino
+- Firmware, bootloaders, JTAG/SWD, UART debugging
 
-Robotics & Autonomous Systems 🤖
+### Networking & Security
+- TCP/IP internals, packet analysis with Wireshark
+- Pen-testing: Nmap, Metasploit, Burp Suite
+- Network forensics & firewall/hardening
 
-ROS (Robot Operating System): Working on robotics projects, integrating sensors, and building autonomous systems.
+### Robotics & AI
+- ROS, sensor fusion (IMU, LIDAR, cameras)
+- On-device ML: TensorFlow Lite, PyTorch Mobile
+- Reinforcement learning for control systems
 
-Embedded AI: Deploying AI models on devices like Raspberry Pi and Jetson Nano for robotics and IoT.
+---
 
-Sensor Fusion: Combining multiple sensor inputs to create intelligent, autonomous systems capable of decision-making.
+## Connect with Me
+- **Email:** <nicholasconnelly.sci@gmail.com>
+- **LinkedIn:** https://www.linkedin.com/in/nicholas-c-284342165/
+- **Website:** Coming soon!
 
-Connect with Me
+---
 
-Email: nicholasconnelly.sci@gmail.com
+*Let’s collaborate — whether it’s firmware, AI, or low-level systems.*
 
-LinkedIn: Click Here
-
-Website: Coming Soon!
-
-Let’s collaborate and create something amazing together!
