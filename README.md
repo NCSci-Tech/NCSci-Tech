@@ -1,7 +1,7 @@
 # Hi there, I'm Nikolai! 👋
 
 ## About Me
-I'm a passionate developer with a strong focus on **systems programming, networking, and AI development**. My main expertise lies in **C, C++, Python, Rust, and Bash**, with a growing interest in **robotics, cybernetics, and advanced computer algorithms**.
+I'm a passionate developer with a strong focus on **systems programming, networking, and AI development**. My main expertise lies in **C, C++, Python, Binary, Assembly, and Bash**, with a growing interest in **robotics, cybernetics, and advanced computer algorithms**.
 
 - Currently working on a **GPT-powered app** and a **universal AI-assisted compiler**
 - Exploring **freelance opportunities** in IT, automation, and software development
@@ -10,9 +10,9 @@ I'm a passionate developer with a strong focus on **systems programming, network
 
 ## Tech Stack
 ```yaml
-Programming: [ C, C++, Python, Bash, SQL, Rust ]
-Tools: [ Docker, Linux, Git, Qt, MongoDB, Django ]
-Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
+Programming: [ C, C++, Python, Bash, Binary, Assembly ]
+Tools: [ Docker, Linux, Git, Qemu, GDB, Ghidra, MongoDB, Django, etc ]
+Focus Areas: [ Embedded/System Programming, Firmware, Cybersecurity, Networks, AI, Low-Level ]
 ```
 
 ## GitHub Stats
@@ -23,7 +23,7 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 
 ## ✨✨✨✨✨✨
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Systems+and+Networking+Developer;Building+AI+and+Cybernetic+Solutions;Freelance+IT+Solutions;Welcome+to+My+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Systems+and+Networking+Developer;Building+AI+and+LLM/ML+Solutions;Freelance+IT+Solutions;Welcome+to+My+GitHub!" />
 
 <!-- 3D Card Animation -->
 <a href="https://github.com/NCSci-Tech">
@@ -41,4 +41,4 @@ Focus Areas: [ System Programming, Networking, AI, Cybernetics ]
 - **Website:** [Click Here](N/A)
 
 ---
-⭐️ Inspired by awesome GitHub profiles! Let's connect and build something great together!
+Let's connect and build something great together!
