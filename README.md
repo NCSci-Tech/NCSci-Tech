@@ -115,8 +115,10 @@ Operating_Systems:
 ---
 
 ## Connect with Me
-- **Email:** <nicholasconnelly.sci@gmail.com>
-- **LinkedIn:** https://www.linkedin.com/in/nicholas-c-284342165/
+- **Email:** [nicholasconnelly.sci@gmail.com](mailto:nicholasconnelly.sci@gmail.com)
+- **LinkedIn:** [Click me!](https://www.linkedin.com/in/nicholas-c-284342165/)
+- **Upwork:** [Click me!](https://www.upwork.com/freelancers/~0135a9c27ab0dc78a8?viewMode=1)
+- **Fiverr:** [Click me!](https://www.fiverr.com/nick_connelly?public_mode=true)
 - **Website:** Coming soon!
 
 ---
