@@ -85,9 +85,9 @@ Operating_Systems:
 
 <!-- Extra badges (static images from shields.io) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Top%20Langs-C%2C%20C++%2C%20Python-blue?logo=github" alt="Top languages" />
-  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20BSD%20%7C%20Win-lightgrey" alt="OS" />
-  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20AI%20%7C%20Security-orange" alt="Focus areas" />
+  <img src="https://img.shields.io/badge/Top%20Langs-C%2C%20C++%2C%20Python-red?logo=github" alt="Top languages" />
+  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20BSD%20%7C%20Win-blue" alt="OS" />
+  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20AI%20%7C%20Security-black" alt="Focus areas" />
 </p>
 
 ---
