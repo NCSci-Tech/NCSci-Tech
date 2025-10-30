@@ -1,7 +1,7 @@
 # Hi there, I'm Nikolai! 👋
 
 ## About Me
-I'm a **developer, hacker, and innovator** with a focus on **systems programming**, **networking**, **AI**, and **hardware hacking**.  
+I'm a **developer, hacker, and innovator** with a focus on **systems and embedded programming**, **networking**, **AI**, and **hardware hacking**.  
 Primary languages: **C, C++, Python, Assembly, Bash, Binary**.  
 Interests: **robotics, reverse engineering, low-level programming, cybersecurity, and autonomous systems**.
 
