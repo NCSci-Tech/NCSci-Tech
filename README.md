@@ -71,7 +71,7 @@ Operating_Systems:
   <!-- Main stats -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NCSci-Tech&show_icons=true&theme=radical" alt="Nikolai's GitHub stats" />
   <!-- Streak -->
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=NCSci-Tech&theme=radical" alt="Nikolai's GitHub streak" />
+  <img height="160em" src="https://streak-stats.demolab.com/?user=NCSci-Tech&theme=radical" alt="Nikolai's GitHub streak" />
 </div>
 
 ---
