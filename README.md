@@ -1,4 +1,4 @@
-# Hi there, I'm Nikolai! 👋
+# Hello there!
 
 ## About Me
 I'm a **developer, hacker, and innovator** with a focus on **systems and embedded programming**, **networking**, **AI**, and **hardware hacking**.  
