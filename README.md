@@ -123,5 +123,5 @@ Operating_Systems:
 
 ---
 
-*Let’s collaborate — whether it’s firmware, AI, or low-level systems.*
+*Let’s collaborate - whether it’s firmware, AI, or low-level systems.*
 
