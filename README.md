@@ -1,4 +1,5 @@
 # Hello there!
+```bash
                                ,-   `.      < HONK >
                              ,'  _   e )`-._ /----
                             /  ,' `-._<.===-'
@@ -19,6 +20,7 @@
                  \   --<
                   `.`.<
                     `-'
+```
 
 ## About Me
 I'm a **developer, hacker, and innovator** with a focus on **systems and embedded programming**, **networking**, **AI**, and **hardware hacking**.  
