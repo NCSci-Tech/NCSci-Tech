@@ -1,4 +1,24 @@
 # Hello there!
+                               ,-   `.      < HONK >
+                             ,'  _   e )`-._ /----
+                            /  ,' `-._<.===-'
+                           /  /
+                          /  ;
+              _          /   ;
+ (`._    _.- --..__,'    |
+ <_  `-                     \ 
+  <`-                          :
+   (__   <__.                  ;
+     `-.   '-.__.      _.'    /
+        \      `-.__,-'    _,'
+         `._    ,    /__,-'
+            ._\__,'< <____
+                 | |  `----.`.
+                 | |        \ `.
+                 ; |___      \-``
+                 \   --<
+                  `.`.<
+                    `-'
 
 ## About Me
 I'm a **developer, hacker, and innovator** with a focus on **systems and embedded programming**, **networking**, **AI**, and **hardware hacking**.  
