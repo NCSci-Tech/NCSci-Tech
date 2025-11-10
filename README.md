@@ -143,8 +143,3 @@ Operating_Systems:
 - **Upwork:** [Click me!](https://www.upwork.com/freelancers/~0135a9c27ab0dc78a8)
 - **Fiverr:** [Click me!](https://www.fiverr.com/nick_connelly)
 - **Website:** Coming soon!
-
----
-
-*Let’s collaborate - whether it’s firmware, AI, or low-level systems.*
-
