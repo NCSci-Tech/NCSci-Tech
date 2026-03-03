@@ -45,14 +45,14 @@
 ```
 
 ## About Me
-I'm a **developer, hacker, and innovator** with a focus on **systems and embedded programming**, **networking**, **AI**, and **hardware hacking**.  
-Primary languages: **C, C++, Python, Assembly, Bash, Binary**.  
-Interests: **robotics, reverse engineering, low-level programming, cybersecurity, and autonomous systems**.
+I'm a **Cybersecurity Specialist** with a focus in **Pentesting, Red Teaming, and DevSecOps**.  
+Primary languages: **C/C++, Python, Assembly, Bash, Binary/hex**.  
+Interests: **reverse engineering, low-level programming, cybersecurity, pentesting, and software security**.
 
 **Current work**
-- GPT-powered apps & AI-assisted compiler
+- Local AI hosting tools (ollamactl)
 - Self-hosted infra (CI/CD, servers, automation)
-- Embedded/firmware development, robotics & sensor fusion
+- Embedded/firmware development, Arduino/Raspberry Pi, STM, esp32, etc
 - Freelance projects in systems, automation, and security
 
 ---
@@ -61,12 +61,11 @@ Interests: **robotics, reverse engineering, low-level programming, cybersecurity
 
 ```yaml
 Programming_Languages:
-  - C
-  - C++
+  - C/C++
   - Python
   - Bash
   - Assembly
-  - Binary
+  - Binary/hex
 
 Tools_and_Frameworks:
   - Docker
@@ -79,32 +78,25 @@ Tools_and_Frameworks:
   - Binary Ninja
   - TensorFlow
   - PyTorch
-  - Django
-  - MongoDB
+  - Ollama
+  - Burpsuite
+  - Metasploit
+  - Wireshark
 
 Focus_Areas:
+  - Bug_Bounties
   - Embedded_Systems
   - Low-Level_Programming
   - Firmware
   - Cybersecurity
   - Reverse_Engineering
   - Networking
-  - Robotics
   - AI/ML
-
-Practices_and_Tech:
-  - Binary_Analysis
-  - Exploit_Development
-  - Penetration_Testing
-  - Hardware_Hacking (RaspberryPi, ESP32, Arduino)
-  - Sensor_Fusion
-  - ROS
-  - Autonomous_Robots
 
 Operating_Systems:
   - Linux
   - FreeBSD
-  - Windows (security/testing)
+  - Windows
   - macOS
 ```
 
@@ -133,28 +125,6 @@ Operating_Systems:
   <img src="https://img.shields.io/badge/OS-Linux%20%7C%20BSD%20%7C%20Win-black" alt="OS" />
   <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20AI%20%7C%20Security-blue" alt="Focus areas" />
 </p>
-
----
-
-## Areas I Work In
-
-### Reverse Engineering & Binary Analysis
-- Ghidra, Radare2, Binary Ninja, IDA Pro  
-- Malware analysis, unpacking, deobfuscation, exploit analysis
-
-### Hardware & Embedded
-- Raspberry Pi, Jetson Nano, ESP32, Arduino
-- Firmware, bootloaders, JTAG/SWD, UART debugging
-
-### Networking & Security
-- TCP/IP internals, packet analysis with Wireshark
-- Pen-testing: Nmap, Metasploit, Burp Suite
-- Network forensics & firewall/hardening
-
-### Robotics & AI
-- ROS, sensor fusion (IMU, LIDAR, cameras)
-- On-device ML: TensorFlow Lite, PyTorch Mobile
-- Reinforcement learning for control systems
 
 ---
 
