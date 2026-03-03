@@ -105,7 +105,7 @@ Operating_Systems:
 
 ---
 
-## ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨ /|\ ^._.^ /|\ ✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+## ✨✨✨✨✨✨✨✨✨✨✨✨✨✨ /|\ ^._.^ /|\ ✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <!-- Typing Animation (works on GitHub) -->
 <p align="center">
