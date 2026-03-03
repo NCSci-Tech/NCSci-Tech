@@ -35,8 +35,9 @@
  | [ctrl][alt][         space bar         ][alt][ctrl]         [up]          |
  |                                                       [left][dn][right]   |
  |___________________________________________________________________________|
-```
 
+
+```
 ## About Me
 I'm a **Cybersecurity Specialist** with a focus in **Pentesting/Red_Teaming** and **Software Security**.
 Primary languages: **C, Python, Assembly, Bash, Binary/hex**.  
@@ -48,8 +49,8 @@ Interests: **cybersecurity, pentesting, reverse engineering, bug_bounties**.
 - Embedded/firmware development, Arduino/Raspberry_Pi, STM, esp32, etc
 - Freelance projects in systems, automation, and security
 
----
 
+---
 ## Tech Stack & Expertise
 
 ```yaml
@@ -75,6 +76,9 @@ Tools_and_Frameworks:
   - Burpsuite
   - Metasploit
   - Wireshark
+  - NMap
+  - fuff/gobuster
+  - etc
 
 Focus_Areas:
   - Bug_Bounties
@@ -91,10 +95,9 @@ Operating_Systems:
   - FreeBSD
   - Windows
   - macOS
+
+
 ```
-
----
-
 ## GitHub Stats
 <div align="center">
   <!-- Main stats -->
