@@ -61,7 +61,7 @@ Interests: **cybersecurity, pentesting, reverse engineering, bug_bounties**.
 
 ```yaml
 Programming_Languages:
-  - C/C++
+  - C
   - Python
   - Bash
   - Assembly
