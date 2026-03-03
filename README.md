@@ -45,14 +45,14 @@
 ```
 
 ## About Me
-I'm a **Cybersecurity Specialist** with a focus in **Pentesting, Red Teaming, and DevSecOps**.  
-Primary languages: **C/C++, Python, Assembly, Bash, Binary/hex**.  
-Interests: **reverse engineering, low-level programming, cybersecurity, pentesting, and software security**.
+I'm a **Cybersecurity_Specialist** with a focus in **Pentesting/Red_Teaming** and **Software_Security**.
+Primary languages: **C, Python, Assembly, Bash, Binary/hex, sql**.  
+Interests: **cybersecurity, pentesting, reverse engineering, bug_bounties**.
 
 **Current work**
 - Local AI hosting tools (ollamactl)
 - Self-hosted infra (CI/CD, servers, automation)
-- Embedded/firmware development, Arduino/Raspberry Pi, STM, esp32, etc
+- Embedded/firmware development, Arduino/Raspberry_Pi, STM, esp32, etc
 - Freelance projects in systems, automation, and security
 
 ---
