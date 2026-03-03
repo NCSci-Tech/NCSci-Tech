@@ -38,8 +38,8 @@
 ```
 
 ## About Me
-I'm a **Cybersecurity_Specialist** with a focus in **Pentesting/Red_Teaming** and **Software_Security**.
-Primary languages: **C, Python, Assembly, Bash, Binary/hex, sql**.  
+I'm a **Cybersecurity Specialist** with a focus in **Pentesting/Red_Teaming** and **Software Security**.
+Primary languages: **C, Python, Assembly, Bash, Binary/hex**.  
 Interests: **cybersecurity, pentesting, reverse engineering, bug_bounties**.
 
 **Current work**
