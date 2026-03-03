@@ -1,4 +1,3 @@
-# Hello there!
 ```bash
                                   __          ____
                                ,-/  `.      < HONK >
