@@ -99,10 +99,10 @@ Focus Areas:
 
 | Project | Description |
 |---|---|
-| [ollamactl](https://github.com/NCSci-Tech/Ollamactl) | Local AI management wrapper for Ollama — model control, GPU tuning, sgpt integration |
-| [Custom-Shell](https://github.com/NCSci-Tech/Custom-Shell) | UNIX shell written in C — built-ins, process management, signal handling |
-| [Client-Server-TCPIPv4](https://github.com/NCSci-Tech/Client-Server-TCPIPv4) | Low-level TCP client/server in C++ — raw socket programming |
-| [Google-Maps-Scraper](https://github.com/NCSci-Tech/Google-Maps-Scraper) | OSINT recon tool — extracts business data from Google Maps for target enumeration |
+| [ollamactl](https://github.com/NCSci-Tech/Ollamactl) | Local AI management wrapper for Ollama - model control, GPU tuning, sgpt integration |
+| [Custom-Shell](https://github.com/NCSci-Tech/Custom-Shell) | UNIX shell written in C - built-ins, process management, signal handling |
+| [Client-Server-TCPIPv4](https://github.com/NCSci-Tech/Client-Server-TCPIPv4) | Low-level TCP client/server in C++ - raw socket programming |
+| [Google-Maps-Scraper](https://github.com/NCSci-Tech/Google-Maps-Scraper) | OSINT recon tool - extracts business data from Google Maps for target enumeration |
 | HTB Writeups | *(coming soon)* — CPTS/CWES module writeups and machine walkthroughs |
 
 ---
