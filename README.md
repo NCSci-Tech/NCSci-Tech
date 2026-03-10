@@ -74,7 +74,7 @@ Primary:
 
 ## Technical Stack
 
-```
+```yaml
 Offensive:
   - Burp Suite          - SQLMap          - Metasploit
   - Nmap / Masscan      - ffuf / Gobuster  - Hydra / CrackMapExec
