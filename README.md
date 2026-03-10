@@ -51,9 +51,7 @@ Primary:
 |---|---|---|
 | CPTS – Certified Penetration Testing Specialist | HackTheBox | Path complete · Exam pending |
 | CWES – Certified Web Exploitation Specialist | HackTheBox | Path complete · Exam pending |
-| B.S. Cybersecurity | University | In progress (33% complete) |
-
-**HackTheBox:** Active — 210 modules across CPTS and CWES paths covering full pentest methodology, web exploitation, privilege escalation, AD attacks, and more.
+| B.S. Cybersecurity | University | In progress |
 
 ---
 
@@ -61,7 +59,7 @@ Primary:
 
 ```
 Offensive:
-  - Burp Suite Pro      - SQLMap          - Metasploit
+  - Burp Suite          - SQLMap          - Metasploit
   - Nmap / Masscan      - ffuf / Gobuster  - Hydra / CrackMapExec
   - Ghidra / Radare2    - GDB             - Impacket
 
@@ -115,10 +113,10 @@ Currently targeting web application programs on HackerOne and Bugcrowd. Primary 
 
 | Platform | Link |
 |---|---|
-| 📧 Email | nicholasconnelly.sci@gmail.com |
-| 💼 LinkedIn | [nicholas-c-284342165](https://www.linkedin.com/in/nicholas-c-284342165/) |
-| 🔧 Upwork | [Freelance profile](https://www.upwork.com/freelancers/~0135a9c27ab0dc78a8) |
-| 🎯 Fiverr | [nick_connelly](https://www.fiverr.com/nick_connelly) |
-| 🌐 Website | Coming soon |
+| Email | nicholasconnelly.sci@gmail.com |
+| LinkedIn | [nicholas-c-284342165](https://www.linkedin.com/in/nicholas-c-284342165/) |
+| Upwork | [Freelance profile](https://www.upwork.com/freelancers/~0135a9c27ab0dc78a8) |
+| Fiverr | [nick_connelly](https://www.fiverr.com/nick_connelly) |
+| Website | Coming soon |
 
 > *Open to freelance web app pentesting engagements, bug bounty collaboration, and security tooling contracts.*
