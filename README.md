@@ -103,7 +103,7 @@ Focus Areas:
 | [Custom-Shell](https://github.com/NCSci-Tech/Custom-Shell) | UNIX shell written in C - built-ins, process management, signal handling |
 | [Client-Server-TCPIPv4](https://github.com/NCSci-Tech/Client-Server-TCPIPv4) | Low-level TCP client/server in C++ - raw socket programming |
 | [Google-Maps-Scraper](https://github.com/NCSci-Tech/Google-Maps-Scraper) | OSINT recon tool - extracts business data from Google Maps for target enumeration |
-| HTB Writeups | *(coming soon)* — CPTS/CWES module writeups and machine walkthroughs |
+| HTB Writeups | *(coming soon)* - CPTS/CWES module writeups and machine walkthroughs |
 
 ---
 
