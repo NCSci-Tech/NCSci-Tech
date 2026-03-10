@@ -1,132 +1,124 @@
-```bash
-    | \          ..         |     |         ..          /|                        .d$$b
-    |  \        /  \       /       \       /  \        / |                      .' TO$;\
-    |   \      /    '-----'         '-----'    \      /  |                     /  : TP._;
-    |    \    /                                 \    /   |                    / _.;  :Tb|
-    |     \  / .------------------------------. \  /     |                   /   /   ;j$j
-    |      \/ /                                \ \/      |               _.-"       d$$$$
-    |      / /   >  initializing...             \ \      |             .' ..       d$$$$;
-    |     / /   >  identity: [UNKNOWN]           \ \     |            /  /P'      d$$$$P. |\
-    |    / /   >  location:  [MASKED]             \ \    |           /   "      .d$$$P' |\^"l
-    |   / /   >  status:     GHOST IN MACHINE      \ \   |         .'           `T$P^"""""  :
-    |  | |   >  target:     MAINFRAME              | |   |     ._.'      _.'                ;
-    |  | |   >  ██████████████████░░  89%          | |   |  `-.-".-'-' ._.       _.-"    .-"
-    |  | |   >  access_____granted...              | |   |  `-.-".-'-' ._.        .-"    .-"
-    |   \ \   >  deploying payload...             / /    |  `-.-".-'-' ._.         -"    .-
-    |    \ \  >  _                               / /     |`.-" _____  ._              .-"
-    |     \ '.___________ __ ___ __ ___________.' /      |`.-" _____  ._              .-"
-    |      '.            " "   " "             .'        |-(.g$$$$$$$b.              .'
-    |        '-.______________________________.-'        | ""^^T$$$P^)            .:'
-    |                                                    |   _/  -"  /.'         /
-    |                                                    |    \  /    /       _.'
-    |                                                    |   /  /.'   (
+```
+    | \          ..         |     |         ..          /|
+    |  \        /  \       /       \       /  \        / |
+    |   \      /    '-----'         '-----'    \      /  |
+    |    \    /                                 \    /   |
+    |     \  / .------------------------------. \  /     |
+    |      \/ /                                \ \/      |
+    |      / /   >  initializing...             \ \      |
+    |     / /   >  identity: NCSci-Tech          \ \     |
+    |    / /   >  focus:     BUG BOUNTIES         \ \    |
+    |   / /   >  status:     OPEN TO WORK          \ \   |
+    |  | |   >  target:     WEB APP VULNS          | |   |
+    |  | |   >  ██████████████████░░  CPTS/CWES    | |   |
+    |  | |   >  access_____granted...              | |   |
+    |   \ \   >  _                               / /    |
+    |    \ \  '-------------------------------' / /     |
+    |     \ '.___________ __ ___ __ ___________.' /      |
+    |      '.            " "   " "             .'        |
+    |        '-.______________________________.-'        |
   ___________________________________________________________________________
  |                                                                           |
  | [esc] [F1][F2][F3][F4] [F5][F6][F7][F8] [F9][F10][F11][F12]  [del][home]  |
- |                                                                           |
- | [`][1][2][3][4][5][6][7][8][9][0][-][=]  [<--bksp]   [nlk][ / ][ * ][ - ] |
- |                                                                           |
- | [tab ][q][w][e][r][t][y][u][i][o][p][[ ][]][ \ ]      [7][8][9][   ]      |
- |                                                       [4][5][6][ + ]      |
- | [caps ][a][s][d][f][g][h][j][k][l][;]['][ enter]      [1][2][3][   ]      |
- |                                                       [  0  ][ . ][ ent ] |
- | [shift  ][z][x][c][v][b][n][m][,][.][/][  shift  ]                        |
- |                                                                           |
- | [ctrl][alt][         space bar         ][alt][ctrl]         [up]          |
- |                                                       [left][dn][right]   |
  |___________________________________________________________________________|
-
-
 ```
-## About Me
-I'm a **Cybersecurity Specialist** with a focus in **Pentesting/Red_Teaming** and **Software Security**.
-Primary languages: **C, Python, Assembly, Bash, Binary/hex**.  
-Interests: **cybersecurity, pentesting, reverse engineering, bug_bounties**.
-
-**Current work**
-- Local AI hosting tools (ollamactl)
-- Self-hosted infra (CI/CD, servers, automation)
-- Embedded/firmware development, Arduino/Raspberry_Pi, STM, esp32, etc
-- Freelance projects in systems, automation, and security
-
 
 ---
-## Tech Stack & Expertise
 
-```yaml
-Programming_Languages:
-  - C
-  - Python
-  - Bash
-  - Assembly
-  - Binary/hex
+# NCSci-Tech
 
-Tools_and_Frameworks:
-  - Docker
-  - Linux
-  - Git
-  - QEMU
-  - GDB
-  - Ghidra
-  - Radare2
-  - Binary Ninja
-  - TensorFlow
-  - PyTorch
-  - Ollama
-  - Burpsuite
-  - Metasploit
-  - Wireshark
-  - NMap
-  - fuff/gobuster
-  - etc
+**Pentester · Bug Hunter · Security Tool Developer**
 
-Focus_Areas:
-  - Bug_Bounties
-  - Embedded_Systems
-  - Low-Level_Programming
-  - Firmware
-  - Cybersecurity
-  - Reverse_Engineering
-  - Networking
-  - AI/ML
+Cybersecurity specialist focused on web application security, penetration testing, and building offensive security tooling. Currently pursuing HTB CPTS and CWES certifications alongside a B.S. in Cybersecurity. Available for freelance pentesting engagements and actively hunting on bug bounty programs.
 
-Operating_Systems:
-  - Linux
-  - FreeBSD
-  - Windows
-  - macOS
+---
 
+## What I Do
 
 ```
+Primary:
+  [1] Bug Bounties        → Web app vulns: SQLi, XSS, IDOR, SSRF, auth bypass, logic flaws
+  [2] Freelance Pentesting → Web app & network assessments, vulnerability reports, remediation guidance
+  [3] Security Tooling    → Offensive tools, automation scripts, recon pipelines
+  [4] Embedded Security   → Firmware analysis, hardware hacking, IoT attack surface
+```
+
+---
+
+## Certifications & Training
+
+| Credential | Issuer | Status |
+|---|---|---|
+| CPTS – Certified Penetration Testing Specialist | HackTheBox | Path complete · Exam pending |
+| CWES – Certified Web Exploitation Specialist | HackTheBox | Path complete · Exam pending |
+| B.S. Cybersecurity | University | In progress (33% complete) |
+
+**HackTheBox:** Active — 210 modules across CPTS and CWES paths covering full pentest methodology, web exploitation, privilege escalation, AD attacks, and more.
+
+---
+
+## Technical Stack
+
+```
+Offensive:
+  - Burp Suite Pro      - SQLMap          - Metasploit
+  - Nmap / Masscan      - ffuf / Gobuster  - Hydra / CrackMapExec
+  - Ghidra / Radare2    - GDB             - Impacket
+
+Languages:
+  - Python              - C               - Bash
+  - Assembly            - Lua
+
+Infrastructure:
+  - Linux (Arch / Kali) - Docker          - QEMU / KVM
+  - Git                 - Wireshark       - Ollama (local AI)
+
+Focus Areas:
+  - Web App Pentesting  - Network Pentesting  - Reverse Engineering
+  - OSINT / Recon       - Exploit Dev         - Security Automation
+```
+
+---
+
+## Notable Projects
+
+| Project | Description |
+|---|---|
+| [ollamactl](https://github.com/NCSci-Tech/Ollamactl) | Local AI management wrapper for Ollama — model control, GPU tuning, sgpt integration |
+| [Custom-Shell](https://github.com/NCSci-Tech/Custom-Shell) | UNIX shell written in C — built-ins, process management, signal handling |
+| [Client-Server-TCPIPv4](https://github.com/NCSci-Tech/Client-Server-TCPIPv4) | Low-level TCP client/server in C++ — raw socket programming |
+| [Google-Maps-Scraper](https://github.com/NCSci-Tech/Google-Maps-Scraper) | OSINT recon tool — extracts business data from Google Maps for target enumeration |
+| HTB Writeups | *(coming soon)* — CPTS/CWES module writeups and machine walkthroughs |
+
+---
+
+## Bug Bounty & Pentest Focus
+
+Currently targeting web application programs on HackerOne and Bugcrowd. Primary vuln classes:
+
+- Business logic flaws and IDOR
+- Authentication and session management weaknesses  
+- Injection vulnerabilities (SQLi, XSS, SSTI, command injection)
+- SSRF and cloud misconfigurations
+- API security and broken access controls
+
+---
+
 ## GitHub Stats
-<div align="center">
-  <!-- Main stats -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NCSci-Tech&show_icons=true&theme=radical" alt="Nikolai's GitHub stats" />
-  <!-- Streak -->
-  <img height="160em" src="https://streak-stats.demolab.com/?user=NCSci-Tech&theme=radical" alt="Nikolai's GitHub streak" />
-</div>
+
+[![NCSci-Tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSci-Tech&show_icons=true&theme=radical)](https://github.com/NCSci-Tech)
+[![GitHub streak](https://streak-stats.demolab.com/?user=NCSci-Tech&theme=radical)](https://github.com/NCSci-Tech)
 
 ---
 
-## ✨✨✨✨✨✨✨✨✨✨✨✨✨✨ /|\ ^._.^ /|\ ✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+## Hire Me / Connect
 
-<!-- Typing Animation (works on GitHub) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=800&lines=Systems+and+Networking+Developer;Building+AI+and+LLM/ML+Solutions;Reverse+Engineering+%26+Hardware+Hacking;Embedded+Systems+%26+Robotics" alt="Typing animation" />
-</p>
+| Platform | Link |
+|---|---|
+| 📧 Email | nicholasconnelly.sci@gmail.com |
+| 💼 LinkedIn | [nicholas-c-284342165](https://www.linkedin.com/in/nicholas-c-284342165/) |
+| 🔧 Upwork | [Freelance profile](https://www.upwork.com/freelancers/~0135a9c27ab0dc78a8) |
+| 🎯 Fiverr | [nick_connelly](https://www.fiverr.com/nick_connelly) |
+| 🌐 Website | Coming soon |
 
-<!-- Extra badges (static images from shields.io) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Top%20Langs-C%2C%20Bash%2C%20Python-red?logo=github" alt="Top languages" />
-  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20BSD%20%7C%20Win-black" alt="OS" />
-  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20AI%20%7C%20Security-blue" alt="Focus areas" />
-</p>
-
----
-
-## Connect with Me
-- **Email:** [nicholasconnelly.sci@gmail.com](mailto:nicholasconnelly.sci@gmail.com)
-- **LinkedIn:** [Click me!](https://www.linkedin.com/in/nicholas-c-284342165/)
-- **Upwork:** [Click me!](https://www.upwork.com/freelancers/~0135a9c27ab0dc78a8)
-- **Fiverr:** [Click me!](https://www.fiverr.com/nick_connelly)
-- **Website:** Coming soon!
+> *Open to freelance web app pentesting engagements, bug bounty collaboration, and security tooling contracts.*
