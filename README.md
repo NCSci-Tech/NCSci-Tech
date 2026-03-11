@@ -124,14 +124,14 @@ Currently targeting web application programs on HackerOne and Bugcrowd. Primary 
 
 ---
 
-## Hire Me / Connect
+## Connect
 
 | Platform | Link |
 |---|---|
 | Email | nicholasconnelly.sci@gmail.com |
-| LinkedIn | [nicholas-c-284342165](https://www.linkedin.com/in/nicholas-c-284342165/) |
-| Upwork | [Freelance profile](https://www.upwork.com/freelancers/~0135a9c27ab0dc78a8) |
-| Fiverr | [nick_connelly](https://www.fiverr.com/nick_connelly) |
+| LinkedIn | [Link](https://www.linkedin.com/in/nicholas-c-284342165/) |
+| Upwork | [Link](https://www.upwork.com/freelancers/~0135a9c27ab0dc78a8) |
+| Fiverr | [Link](https://www.fiverr.com/nick_connelly) |
 | Website | Coming soon |
 
 > *Open to freelance web app pentesting engagements, bug bounty collaboration, and security tooling contracts.*
