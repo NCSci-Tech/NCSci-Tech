@@ -74,17 +74,17 @@ Primary:
 
 ```yaml
 Offensive:
-  - Burp Suite          - SQLMap          - Metasploit
+  - Burp Suite          - SQLMap           - Metasploit
   - Nmap / Masscan      - ffuf / Gobuster  - Hydra / CrackMapExec
-  - Ghidra / Radare2    - GDB             - Impacket
+  - Ghidra / Radare2    - GDB              - Impacket
 
 Languages:
   - Python              - C               - Bash
   - Assembly            - Lua
 
 Infrastructure:
-  - Linux (Arch / Kali) - Docker          - QEMU / KVM
-  - Git                 - Wireshark       - Ollama (local AI)
+  - Linux               - Docker          - QEMU / KVM
+  - Git                 - Wireshark       - Ollama
 
 Focus Areas:
   - Web App Pentesting  - Network Pentesting  - Reverse Engineering
