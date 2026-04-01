@@ -61,8 +61,6 @@ Primary:
 | CWES – Certified Web Exploitation Specialist | HackTheBox | Path complete · Exam pending |
 | B.S. Cybersecurity | University | In progress |
 
----
-
 ## Technical Stack
 
 ```yaml
@@ -84,8 +82,6 @@ Focus Areas:
   - OSINT / Recon       - Exploit Dev         - Security Automation
 ```
 
----
-
 ## Notable Projects
 
 | Project | Description |
@@ -105,8 +101,6 @@ Currently targeting web application programs on HackerOne and Bugcrowd. Primary 
 - Injection vulnerabilities (SQLi, XSS, SSTI, command injection)
 - SSRF and cloud misconfigurations
 - API security and broken access controls
-
----
 
 ## GitHub Stats
 
