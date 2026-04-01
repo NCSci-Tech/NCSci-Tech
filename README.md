@@ -98,7 +98,7 @@ Focus Areas:
 | Project | Description |
 |---|---|
 | [ollamactl](https://github.com/NCSci-Tech/Ollamactl) | Local AI management wrapper for Ollama - model control, GPU tuning, sgpt integration |
-| [Custom-Shell](https://github.com/NCSci-Tech/Custom-Shell) | UNIX shell written in C - built-ins, process management, signal handling |
+| [bxrd-prompt](https://github.com/NCSci-Tech/bxrd-prompt) | UNIX shell prompt written in C - built to be a minimal and secure alternative to starship.rs |
 | [Client-Server-TCPIPv4](https://github.com/NCSci-Tech/Client-Server-TCPIPv4) | Low-level TCP client/server in C++ - raw socket programming |
 | [Google-Maps-Scraper](https://github.com/NCSci-Tech/Google-Maps-Scraper) | OSINT recon tool - extracts business data from Google Maps for target enumeration |
 | HTB Writeups | *(coming soon)* - CPTS/CWES module writeups and machine walkthroughs |
