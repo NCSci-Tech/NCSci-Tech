@@ -37,16 +37,11 @@
 
 ```
 
-
----
-
 # NCSci-Tech
 
 **Pentester · Bug Hunter · Security Tool Developer**
 
 Cybersecurity specialist focused on web application security, penetration testing, and building offensive security tooling. Currently pursuing HTB CPTS and CWES certifications alongside a B.S. in Cybersecurity. Available for freelance pentesting engagements and actively hunting on bug bounty programs.
-
----
 
 ## What I Do
 
@@ -57,8 +52,6 @@ Primary:
   [3] Security Tooling    → Offensive tools, automation scripts, recon pipelines
   [4] Embedded Security   → Firmware analysis, hardware hacking, IoT attack surface
 ```
-
----
 
 ## Certifications & Training
 
@@ -103,8 +96,6 @@ Focus Areas:
 | [Google-Maps-Scraper](https://github.com/NCSci-Tech/Google-Maps-Scraper) | OSINT recon tool - extracts business data from Google Maps for target enumeration |
 | HTB Writeups | *(coming soon)* - CPTS/CWES module writeups and machine walkthroughs |
 
----
-
 ## Bug Bounty & Pentest Focus
 
 Currently targeting web application programs on HackerOne and Bugcrowd. Primary vuln classes:
@@ -121,8 +112,6 @@ Currently targeting web application programs on HackerOne and Bugcrowd. Primary 
 
 [![NCSci-Tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSci-Tech&show_icons=true&theme=radical)](https://github.com/NCSci-Tech)
 [![GitHub streak](https://streak-stats.demolab.com/?user=NCSci-Tech&theme=radical)](https://github.com/NCSci-Tech)
-
----
 
 ## Connect
 
