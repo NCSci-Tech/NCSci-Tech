@@ -38,77 +38,89 @@
 ```
 
 # NCSci-Tech
+**Vulnerability Researcher · Reverse Engineer · Security Tool Developer**
 
-**Pentester · Bug Hunter · Security Tool Developer**
-
-Cybersecurity specialist focused on web application security, penetration testing, and building offensive security tooling. Currently pursuing HTB CPTS and CWES certifications alongside a B.S. in Cybersecurity. Available for freelance pentesting engagements and actively hunting on bug bounty programs.
+Cybersecurity researcher focused on binary exploitation, reverse engineering, hardware security, and wireless security. Currently pursuing a B.S. in Cybersecurity alongside independent research across low-level offensive security, embedded systems, and Android/ARM security. Available for freelance security engagements and actively building toward vulnerability research and exploit development.
 
 ## What I Do
-
 ```
 Primary:
-  [1] Bug Bounties        → Web app vulns: SQLi, XSS, IDOR, SSRF, auth bypass, logic flaws
-  [2] Freelance Pentesting → Web app & network assessments, vulnerability reports, remediation guidance
-  [3] Security Tooling    → Offensive tools, automation scripts, recon pipelines
-  [4] Embedded Security   → Firmware analysis, hardware hacking, IoT attack surface
+  [1] Binary Exploitation   → Memory corruption, ROP chains, shellcode, heap exploitation
+  [2] Reverse Engineering   → Static/dynamic analysis, firmware extraction, malware RE
+  [3] Hardware Security     → Firmware analysis, embedded devices, hardware protocol attacks
+  [4] Wireless Security     → WiFi auditing, RF research, Android/mobile security
+  [5] Security Tooling      → Offensive tools, fuzzing harnesses, automation scripts
 ```
 
 ## Certifications & Training
-
 | Credential | Issuer | Status |
 |---|---|---|
 | CPTS – Certified Penetration Testing Specialist | HackTheBox | Path complete · Exam pending |
 | CWES – Certified Web Exploitation Specialist | HackTheBox | Path complete · Exam pending |
+| PortSwigger Web Security Academy | PortSwigger | Complete |
+| pwn.college | ASU | In progress |
 | B.S. Cybersecurity | University | In progress |
 
 ## Technical Stack
-
 ```yaml
-Offensive:
-  - Burp Suite          - SQLMap           - Metasploit
-  - Nmap / Masscan      - ffuf / Gobuster  - Hydra / CrackMapExec
-  - Ghidra / Radare2    - GDB              - Impacket
+Reverse Engineering:
+  - Ghidra              - Binary Ninja      - Radare2
+  - Frida               - Binwalk           - Angr + Z3
+
+Debugging & Exploitation:
+  - GDB + GEF           - Pwntools          - Ropper
+  - Metasploit/msfvenom - NASM/gcc/ld
+
+Fuzzing:
+  - AFL++ + ASAN/UBSAN  - LibFuzzer         - Honggfuzz
+  - Boofuzz
+
+Forensics & Network:
+  - Volatility          - Wireshark         - Aircrack-ng
+
+Mastery Track:
+  - Syzkaller
 
 Languages:
-  - Python              - C               - Bash
-  - Assembly            - Lua
+  - C                   - C++               - Python
+  - Bash                - x86_64 Assembly   - ARM Assembly
+  - Binary/Hex
 
-Infrastructure:
-  - Linux               - Docker          - QEMU / KVM
-  - Git                 - Wireshark       - Ollama
+Hardware Lab:
+  - CH341a + SOIC Clip  - Bus Pirate        - GreatFET One
+  - ST-Link V2          - Logic Analyzer    - Flipper Zero + WiFi Dev Board
+  - ESP32-S3            - Raspberry Pi      - Arduino
+  - Rooted Pixel (NetHunter)
 
 Focus Areas:
-  - Web App Pentesting  - Network Pentesting  - Reverse Engineering
-  - OSINT / Recon       - Exploit Dev         - Security Automation
+  - Binary Exploitation   - Reverse Engineering   - Firmware Analysis
+  - Hardware Hacking      - Wireless/RF Security  - Android/ARM Security
+  - Exploit Development   - Memory Forensics      - Kernel Security
 ```
 
 ## Notable Projects
-
 | Project | Description |
 |---|---|
 | [ollamactl](https://github.com/NCSci-Tech/Ollamactl) | Local AI management wrapper for Ollama - model control, GPU tuning, sgpt integration |
-| [bxrd-prompt](https://github.com/NCSci-Tech/bxrd-prompt) | UNIX shell prompt written in C - built to be a minimal and secure alternative to starship.rs |
+| [bxrd-prompt](https://github.com/NCSci-Tech/bxrd-prompt) | UNIX shell prompt written in C - minimal and secure alternative to starship.rs |
 | [Client-Server-TCPIPv4](https://github.com/NCSci-Tech/Client-Server-TCPIPv4) | Low-level TCP client/server in C++ - raw socket programming |
 | [Google-Maps-Scraper](https://github.com/NCSci-Tech/Google-Maps-Scraper) | OSINT recon tool - extracts business data from Google Maps for target enumeration |
 | HTB Writeups | *(coming soon)* - CPTS/CWES module writeups and machine walkthroughs |
+| RE/Exploit Research | *(coming soon)* - Binary exploitation writeups, RE notes, CTF solutions |
 
-## Bug Bounty & Pentest Focus
-
-Currently targeting web application programs on HackerOne and Bugcrowd. Primary vuln classes:
-
-- Business logic flaws and IDOR
-- Authentication and session management weaknesses  
-- Injection vulnerabilities (SQLi, XSS, SSTI, command injection)
-- SSRF and cloud misconfigurations
-- API security and broken access controls
+## Research Focus
+Primary targets are memory corruption vulnerability classes on AMD64 Linux and Android/ARM:
+- Buffer overflows, heap exploitation, use-after-free
+- ROP chain construction and shellcode development
+- Firmware extraction and embedded device analysis
+- Android native library reversing and runtime instrumentation
+- WiFi and RF protocol research
 
 ## GitHub Stats
-
 [![NCSci-Tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCSci-Tech&show_icons=true&theme=radical)](https://github.com/NCSci-Tech)
 [![GitHub streak](https://streak-stats.demolab.com/?user=NCSci-Tech&theme=radical)](https://github.com/NCSci-Tech)
 
 ## Connect
-
 | Platform | Link |
 |---|---|
 | Email | nicholasconnelly.sci@gmail.com |
@@ -117,4 +129,4 @@ Currently targeting web application programs on HackerOne and Bugcrowd. Primary 
 | Fiverr | [Link](https://www.fiverr.com/nick_connelly) |
 | Website | Coming soon |
 
-> *Open to freelance web app pentesting engagements, bug bounty collaboration, and security tooling contracts.*
+> *Open to freelance binary analysis, reverse engineering, firmware security engagements, and security tooling contracts.*
