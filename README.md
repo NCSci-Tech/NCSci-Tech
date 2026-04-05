@@ -81,7 +81,7 @@ Hardware Lab:
   - CH341a + SOIC Clip  - Bus Pirate        - GreatFET One
   - ST-Link V2          - Logic Analyzer    - Flipper Zero + WiFi Dev Board
   - ESP32-S3            - Raspberry Pi      - Arduino
-  - Rooted Pixel (NetHunter)
+  - Rooted/Unrooted Android Device(s)
 
 Focus Areas:
   - Binary Exploitation   - Reverse Engineering   - Firmware Analysis
