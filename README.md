@@ -52,15 +52,6 @@ Primary:
   [5] Security Tooling      → Offensive tools, fuzzing harnesses, automation scripts
 ```
 
-## Certifications & Training
-| Credential | Issuer | Status |
-|---|---|---|
-| CPTS – Certified Penetration Testing Specialist | HackTheBox | Path complete · Exam pending |
-| CWES – Certified Web Exploitation Specialist | HackTheBox | Path complete · Exam pending |
-| PortSwigger Web Security Academy | PortSwigger | Complete |
-| pwn.college | ASU | In progress |
-| B.S. Cybersecurity | University | In progress |
-
 ## Technical Stack
 ```yaml
 Reverse Engineering:
