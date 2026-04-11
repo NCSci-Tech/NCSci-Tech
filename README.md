@@ -95,7 +95,7 @@ Focus Areas:
 | [ollamactl](https://github.com/NCSci-Tech/Ollamactl) | Local AI management wrapper for Ollama - model control, GPU tuning, sgpt integration |
 | [bxrd-prompt](https://github.com/NCSci-Tech/bxrd-prompt) | UNIX shell prompt written in C - minimal and secure alternative to starship.rs |
 | [xtools](https://github.com/NCSci-Tech/xtools) | Suite for binary exploitation, fuzzing, and reverse engineering |
-| [Google-Maps-Scraper](https://github.com/NCSci-Tech/Google-Maps-Scraper) | OSINT recon tool - extracts business data from Google Maps for target enumeration |
+| [Custom-Shell](https://github.com/NCSci-Tech/Custom-Shell) | Simple command-line shell written in C |
 | HTB Writeups | *(coming soon)* - CPTS/CWES module writeups and machine walkthroughs |
 | RE/Exploit Research | *(coming soon)* - Binary exploitation writeups, RE notes, CTF solutions |
 
